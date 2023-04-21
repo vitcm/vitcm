@@ -8,7 +8,7 @@
 
 ![Vitóya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitcm&show_icons=true&theme=synthwave)
 
-### 💻 Tecnologias: 💻
+### 💻 Tecnologias/Technologies: 💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -23,5 +23,6 @@
     
 </div>
 </br>
+
 ## 🌼 Sobre mim/About me
 Brasileira de 26 anos, sou arquiteta e urbanista e atualmente faço ADS(Análise e Desenvolvimento de Sistemas) na PUC-Goiás. Estou aprendendo novas tecnologias e compartilho alguns programas aqui 💕
