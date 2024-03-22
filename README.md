@@ -28,5 +28,3 @@ Brasileira de 26 anos, sou desenvolvedora focada mais em design UX/UI e front-en
 </br>
 <img align="center" alt="Meu gif" src="https://i.picasion.com/pic92/bd81abda7fc09fdbb1a67f4b6ef340e2.gif">
 </div>
-
-![snake gif](https://github.com/vitcm/vitcm/blob/output/github-contribution-grid-snake.svg)
