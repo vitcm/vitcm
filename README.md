@@ -24,7 +24,7 @@
 </br>
 <div>
  <h2>🌼 Sobre mim/About me</h2>
-Brasileira de 26 anos, sou desenvolvedora focada mais em design UX/UI e front-end. No momento estou trabalhando mais com Typescript e React.
+Brasileira, desenvolvedora.
 </br>
 <img align="center" alt="Meu gif" src="https://i.picasion.com/pic92/bd81abda7fc09fdbb1a67f4b6ef340e2.gif">
 </div>
